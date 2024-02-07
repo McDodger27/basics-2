@@ -1,3 +1,6 @@
 Commits,
 Creating branches,
 Deleting branches
+Making a repo
+Adding a remote to a github repo
+Cloning a repo from github
